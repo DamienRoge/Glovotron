@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="258dp"
+        android:id="@+id/tvAction"
+        android:textSize="36sp"
+        android:text="Action"
+        android:gravity="center"
+        android:textStyle="normal|bold"
+        android:textAlignment="center" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/tvRaw"
+        android:textSize="36sp"
+        android:text="data raw"
+        android:gravity="center"
+        android:textStyle="normal|bold"
+        android:textAlignment="center" />
+
+</LinearLayout>

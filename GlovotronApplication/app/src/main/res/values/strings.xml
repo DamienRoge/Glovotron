@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Glovotron</string>
+    <string name="refresh">Actualiser</string>
+    <string name="bt_not_supported">Le Bluetooth n\'est pas supporté par cet appareil</string>
+</resources>
